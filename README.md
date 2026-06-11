@@ -141,4 +141,3 @@ streamlit run App/app.py
 | `caffeine` | Caffeine consumption frequency |
 | `exercise` | Physical activity frequency |
 | `stress` | Academic stress level |
-Contribution by manoharrajgopal4
