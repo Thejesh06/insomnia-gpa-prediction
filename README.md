@@ -1,4 +1,3 @@
-⁠
 # Impact of Insomnia on Academic Performance
 
 A research replication and original data collection project examining how student sleep patterns affect GPA, combined with a machine learning classification pipeline and an interactive Streamlit web application.
