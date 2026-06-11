@@ -157,7 +157,7 @@ st.markdown(
     'Understand how your **sleep habits** and **lifestyle** affect your academic performance. '
     'Enter your profile below to get a prediction and personalised insights.'
 )
-st.caption('Model: Random Forest + SMOTE | Trained on 768 university students | 7 behavioural features')
+st.caption('Model: Random Forest + SMOTE | Trained on 996 university students | 7 behavioural features')
 st.divider()
 
 
@@ -397,6 +397,6 @@ if predict_btn:
 st.divider()
 st.caption(
     'Impact of Insomnia on Academic Performance | '
-    'Random Forest + SMOTE | Survey dataset (n=768) | '
+    'Random Forest + SMOTE | base paper dataset (n=996) | '
     'Features: sleep onset, duration, night arousals, screen time, caffeine, exercise, stress'
 )
