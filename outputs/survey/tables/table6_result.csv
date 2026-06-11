@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,Specificity,F1 Score,AUC
+Decision Tree,0.633,0.325,0.332,0.745,0.327,0.538
+Logistic Regression,0.733,0.535,0.13,0.957,0.208,0.678
+SVM (RBF),0.728,0.644,0.062,0.975,0.108,0.652
+k-NN,0.695,0.421,0.25,0.861,0.306,0.63
+Random Forest,0.694,0.393,0.236,0.864,0.293,0.655
+Naive Bayes,0.721,0.472,0.264,0.891,0.339,0.684

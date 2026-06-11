@@ -1,0 +1,13 @@
+Variable,Odds Ratio,CI Lower,CI Upper,p-value
+sleep_onset,0.852,0.591,1.227,0.389
+sleep_duration,1.058,0.742,1.511,0.755
+night_arousals,0.707,0.472,1.059,0.093
+sleep_quality,1.132,0.693,1.851,0.621
+difficulty_concentrating,0.991,0.679,1.447,0.964
+fatigue,0.681,0.434,1.068,0.094
+miss_classes,0.984,0.652,1.486,0.941
+miss_deadlines,0.898,0.596,1.351,0.605
+screen_time,1.011,0.685,1.491,0.957
+caffeine,0.564,0.373,0.854,0.007
+exercise,0.99,0.665,1.476,0.962
+stress,0.609,0.436,0.851,0.004
